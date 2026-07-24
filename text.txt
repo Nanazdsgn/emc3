@@ -1,1 +1,1 @@
-hello world
+hello world, now its time for me to understand the branch and checkout. 
